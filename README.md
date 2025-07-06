@@ -7,11 +7,14 @@ A platform designed for creating leather articles aimed at small entrepreneurs.
 - User-friendly interface for designing leather products.
 - Tools tailored for small-scale artisans.
 - Support for various leathercraft techniques.
+- 
+![Screenshot 2025-04-21 160508](https://github.com/user-attachments/assets/9641a340-7e0b-4f39-ba81-02848314afb3)
 
 ## 🚀 Commands for Running the Project:
 To start the project, run the following command in your terminal:
 
-```bash
+```bash'
+
 npm start
 
 
@@ -20,5 +23,4 @@ email:ashish@gmail.com
 
 password:ashish
 
-![Screenshot 2025-04-21 160508](https://github.com/user-attachments/assets/9641a340-7e0b-4f39-ba81-02848314afb3)
 
