@@ -1,12 +1,19 @@
-# Leathercraft
-.editor for small artisans
+# 👜 Leathercraft
+### Editor for Small Artisans
 
-.for designing leather articles aimed at small entrepreneurs.
+A platform designed for creating leather articles aimed at small entrepreneurs. 
 
+## 🚀 Features
+- User-friendly interface for designing leather products.
+- Tools tailored for small-scale artisans.
+- Support for various leathercraft techniques.
 
+## 🚀 Commands for Running the Project:
+To start the project, run the following command in your terminal:
 
-# Commands for runnning the project:
+```bash
 npm start
+
 
 # login credentials
 email:ashish@gmail.com
