@@ -1,5 +1,5 @@
 # 👜 Leathercraft
-### Editor for Small Artisans
+### Editor for Small Artisans.
 
 A platform designed for creating leather articles aimed at small entrepreneurs. 
 
